@@ -2,7 +2,6 @@
 @@||api.flipp.com
 @@||sdk-config.kameleoon.eu
 @@||simplyposhesthetics.square.sit
-@@||use-application-dns.net^$client='192.168.127.241'
 @@||api.us-east-1.aiv-delivery.net^$client='192.168.177.253'
 @@||unagi-na.amazon.com^$client='192.168.177.253'
 @@||api.us-east-1.aiv-delivery.net^$client='192.168.194.253'
