@@ -27,8 +27,6 @@
 @@||vpncdn.protonweb.com^$client='192.168.183.254'
 @@||vpn-api.proton.me^$client='192.168.183.254'
 @@||*.protonvpn.net^$client='192.168.159.56'
-@@||account.proton.me^$client='fd5a:1b2c:3d4e:0:1c7c:a37c:a68b:ac66'
-@@||authenticator-api.proton.me^$client='fd5a:1b2c:3d4e:2:ddb8:6920:e2e6:2816'
 @@||orsplc.di.runestone.samsung.com
 @@||orsdls.di.runestone.samsung.com
 @@||ureca.samsungapps.com
