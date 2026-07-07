@@ -3,3 +3,4 @@
 ||mask-h2.icloud.com^
 ||mask-canary.icloud.com^
 ||canary.mask.apple-dns.net^
+||dns.msftncsi.com^$client='192.168.177.254'
